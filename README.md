@@ -15,7 +15,7 @@
 ## 👨🏻‍💻 &nbsp;About Me:
 
 <p>🎓 &nbsp;I'm currently a Gradute Student studying Masters in Computer Engineering at <a href = "https://www.ucr.edu">University of California, Riverside</a>.</p>
-<p>🔭 &nbsp;I’ve worked as a Machine Learning Engineer at the <a href="http://www.cancermoonshot.in">CancerMoonShot</a>.</p>
+<p>🔭 &nbsp;I’ve worked as a Machine Learning Engineer at <a href="http://www.cancermoonshot.in">CancerMoonShot</a>.</p>
 <p>💡 &nbsp;I like to solve algorithmic problems or work on my side projects during my free time.</p>
 <p>🌱 &nbsp;I'm currently learning more about Systems Design, Parallel and High Performance Computing.</p>
 <p>💬 &nbsp;Feel free to reach out to me for work opportunities or working alogside a project.</p>
