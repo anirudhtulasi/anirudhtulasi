@@ -21,7 +21,6 @@
 <p>💡 &nbsp;I like to solve algorithmic problems or work on my side projects during my free time.</p>
 <p>🌱 &nbsp;I'm currently learning more about Systems Design, Parallel and High Performance Computing.</p>
 <p>💬 &nbsp;Feel free to reach out to me for work opportunities or working alogside a project.</p>
-<!---<p>🧩 &nbsp;Please have a look at my <a href="https://drive.google.com/file/d/1kf_H6cOm7AcuRvEcbExztr9ie5qTGeiL/view?usp=sharing">Résumé</a> for more details about me.</p>--->
 
 <br />
 
@@ -54,7 +53,7 @@
 
 <br/>
 <p align="center">
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=AnirudhTulasi&hide_border=true&theme=dark&show_icons=true" />
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=anirudhtulasi&theme=highcontrast&hide_border=true&border_radius=20&card_width=600" alt="GitHub Streak" /></a>
 </p>
 
 
