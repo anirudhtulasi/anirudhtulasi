@@ -53,7 +53,7 @@
 
 <br/>
 <p align="center">
-  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=anirudhtulasi&theme=highcontrast&hide_border=true&border_radius=20&card_width=600" alt="GitHub Streak" /></a>
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=AnirudhTulasi&theme=highcontrast&hide_border=true&border_radius=40&card_width=600&background=000000" alt="GitHub Streak" /></a>
 </p>
 
 
