@@ -8,19 +8,14 @@
 	</a>
 </p>
 
-<!---
-<p align="center">
-	<img src="https://komarev.com/ghpvc/?username=anirudhtulasi&color=blueviolet&style=flat-square&label=Profile+Views" />
-</p>
---->
-
 ## 👨🏻‍💻 &nbsp;About Me:
 
-<p>🎓 &nbsp;I'm currently a Gradute Student studying Masters in Computer Engineering at <a href = "https://www.ucr.edu">University of California, Riverside</a>.</p>
-<p>🔭 &nbsp;I’ve worked as a Machine Learning Engineer at <a href="http://www.cancermoonshot.in">CancerMoonShot</a>.</p>
-<p>💡 &nbsp;I like to solve algorithmic problems or work on my side projects during my free time.</p>
-<p>🌱 &nbsp;I'm currently learning more about Systems Design, Parallel and High Performance Computing.</p>
-<p>💬 &nbsp;Feel free to reach out to me for work opportunities or working alogside a project.</p>
+<p>🎓 &nbsp;I'm Anirudh, a creative tech enthusiast and recent graduate with a Master's in Computer Engineering from <a href="https://www.ucr.edu">University of California, Riverside</a>.</p>
+<p>🧠 &nbsp;I’m obsessed with the potential of AI and Large Language Models (LLMs) to transform industries. Whether it's building scalable AI systems, designing interactive web apps, or fine-tuning LLMs for real-world applications, I love solving challenging problems with technology.</p>
+<p>🌟 &nbsp;Over the years, I've dabbled in cutting-edge projects: developing LLM-powered tools, cleaning messy data, and bringing ideas to life with intuitive user interfaces. My favorite playgrounds are AI, ML, and full-stack development.</p>
+<p>🚀 &nbsp;I’m currently exploring model quantization, vector databases like Pinecone and FAISS, and Retrieval-Augmented Generation (RAG) for dynamic AI systems.</p>
+<p>💡 &nbsp;Check out my work at <a href="https://www.anirudhtulasi.com">www.anirudhtulasi.com</a>.</p>
+<p>🤝 &nbsp;Let’s connect for collaborations, discussions, or just to share ideas!</p>
 
 <br />
 
@@ -39,12 +34,18 @@
 
 ### 🚀 &nbsp;Technologies:
 
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-05122A?style=flat&logo=tensorflow)&nbsp;
+![PyTorch](https://img.shields.io/badge/-PyTorch-05122A?style=flat&logo=pytorch)&nbsp;
+![LangChain](https://img.shields.io/badge/-LangChain-05122A?style=flat&logo=langchain)&nbsp;
+![Hugging Face](https://img.shields.io/badge/-HuggingFace-05122A?style=flat&logo=huggingface)&nbsp;
+![FastAPI](https://img.shields.io/badge/-FastAPI-05122A?style=flat&logo=fastapi)&nbsp;
 ![NextJS](https://img.shields.io/badge/-NextJS-05122A?style=flat&logo=next.js)&nbsp;
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
 ![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=mongodb)&nbsp;
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql)&nbsp;
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
+![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker)&nbsp;
+![AWS](https://img.shields.io/badge/-AWS-05122A?style=flat&logo=amazon-aws)&nbsp;
 ![Linux](https://img.shields.io/badge/-Linux-05122A?style=flat&logo=linux)&nbsp;
 
 <hr />
@@ -56,22 +57,4 @@
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=AnirudhTulasi&theme=highcontrast&hide_border=true&border_radius=40&card_width=600&background=000000" alt="GitHub Streak" /></a>
 </p>
 
-
 <hr />
-
-## 📕 Pinned Repositories
-
-<p align="center">
-	<a href="https://github.com/anirudhtulasi/TwiP">
-		<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AnirudhTulasi&repo=TwiP&hide_border=true&theme=dark&show_icons=true" />
-	</a>
-	<a href="https://github.com/anirudhtulasi/CVMatcher">
-		<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AnirudhTulasi&repo=CVMatcher&hide_border=true&theme=dark&show_icons=true" />
-	</a>
-	<a href="https://github.com/anirudhtulasi/SentimentAnalysisWithMLandPython">
-		<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anirudhtulasi&repo=SentimentAnalysisWithMLandPython&hide_border=true&theme=dark&show_icons=true" />
-	</a>
-	<a href="https://github.com/anirudhtulasi/MachineLearningbyStanfordUniversity">
-		<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anirudhtulasi&repo=MachineLearningbyStanfordUniversity&hide_border=true&theme=dark&show_icons=true" />
-	</a>
-</p>
